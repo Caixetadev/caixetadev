@@ -1,5 +1,12 @@
 ### Hi there, I'm Rafael Caixeta👋
 
+
+<img
+	src="https://github.com/erismaroliveira/erismaroliveira/blob/main/ativos/dev_productivit.svg?raw=true"
+	width="400px"
+	height="390px"
+	align="right"
+/>
 <!--
 **Caixetadev/caixetadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
