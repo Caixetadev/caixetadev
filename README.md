@@ -1,5 +1,4 @@
 ### Hi there, I'm Rafael Caixeta👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caixetadev&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caixetadev&show_icons=true&theme=dracula)
 
 
