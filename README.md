@@ -1,7 +1,7 @@
 ## Hi there, I'm [Caixeta!]()👋
 
 <a href="https://www.linkedin.com/in/rafael-caixeta-05402b217/" target="_blank">
-<img align="center" alt="caixeta-linkedin" height="20" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="caixeta-linkedin" height="30" width="25" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="max-width:100%;">
 </a>
 <a href="https://twitter.com/caixetadev" target="_blank">
 <img align="center" alt="caixeta-twitter" height="20" width="25" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;">
