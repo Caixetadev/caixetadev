@@ -10,17 +10,17 @@
 <img align="center" alt="caixeta-instagram" height="40" width="25" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" style="max-width:100%;">
 </a>
 
-### Hi, I'm Rafael Caixeta, in love with FrontEnd
+## Hi, I'm Rafael Caixeta, in love with FrontEnd
 - 👨‍🎓 I'm currently studying to be a good Front End in the future
 - 📚 I'm currently learning HTML and CSS
 - 🏙 I live in Uberlândia-MG
 
-#### My future tools and language:
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+## My future tools and language:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 
-### Github Stats
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caixetadev&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caixetadev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
