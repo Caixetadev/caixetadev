@@ -1,5 +1,5 @@
 ## Hi there, I'm [Caixeta!]()</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"/>
 
 <a href="https://www.linkedin.com/in/rafael-caixeta-05402b217/" target="_blank">
 <img align="center" alt="caixeta-linkedin" height="30" width="25" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="max-width:100%;">
