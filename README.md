@@ -6,7 +6,7 @@
 <a href="https://twitter.com/caixetadev" target="_blank">
 <img align="center" alt="caixeta-twitter" height="20" width="25" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;">
 </a>
-<a href="https://www.instagram.com/omg_its_caixeta/" target="_blank">
+<a href="https://www.instagram.com/caixetadev/" target="_blank">
 <img align="center" alt="caixeta-instagram" height="40" width="25" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" style="max-width:100%;">
 </a>
 
