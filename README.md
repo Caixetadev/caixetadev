@@ -24,8 +24,8 @@
 
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caixetadev&show_icons=true&theme=dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caixetadev&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caixetadev&show_icons=true&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caixetadev&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
