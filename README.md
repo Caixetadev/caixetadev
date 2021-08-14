@@ -13,7 +13,7 @@
 
 ### Hi, I'm Rafael Caixeta, in love with FrontEnd
 - 👨‍🎓 I'm currently studying to be a good Front End in the future
-- 📚 I'm currently learning HTML and CSS
+- 📚 I'm currently learning HTML CSS and JavaScript
 - 🏙 I live in Uberlândia-MG
 - 👦 I'm 17 years old
 
