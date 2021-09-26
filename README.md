@@ -28,6 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caixetadev&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-s.svg) -->
  
 </div>
